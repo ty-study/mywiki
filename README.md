@@ -1,10 +1,9 @@
 # 🎨 前言
 
-!> <b>说明</b>：做一个有趣的爱分享的人，记录本科及研究生阶段所学的计算机专业知识，力求构建「AI & CS & SE」知识体系。如果你喜欢这个文档网站欢迎到 [GitHub](https://github.com/wugenqiang/NoteBook) 点个 Star，或者交换[友链](https://notebook.js.org/#/Friends/) ( •̀ ω •́ )✧🔑
+!> <b>说明</b>：本人是一名粉体材料科学与工程专业的学生，爱好记录本科阶段所学的专业知识，欢迎访问我的博客 [ty1024's blog](https://ty1024.top)，文档网站模板地址 [GitHub](https://github.com/wugenqiang/NoteBook) ，感谢大佬的模板( •̀ ω •́ )✧
 
 * ⏳ 爱分享，爱生活！在我眼里，`你永远是不一样的烟火`！觉得还不错的话，记得好好学习吖！
-* ✨ 本仓库建立的初衷是为了记录一路走来学习的计算机专业知识，方便之后复习与查看。`起于此，但不止于此`，在不断的摸索和完善，勤能补拙，相信一点点的积累最后汇聚成海！希望我的这个小小的计划，可以帮助到实力强大的你！`止于至善`  🧡🧡
-
+* ✨ 本文档建立的初衷是为了记录一路走来学习的计算机和材料专业知识，方便之后复习与查看。`每天进步一点点`，在不断的摸索和完善，勤能补拙，相信一点点的积累最后汇聚成海！
 
 
 # 🍵 编程语言
@@ -183,12 +182,12 @@
 
 
 
-# 🐝 生物信息学
+# 🐝 粉体材料科学与工程
 
 * **【一】生信基础**
-  * [0 - 生信入门提纲](https://share.mubu.com/doc/3vY2uU7ad0q)
-  * [1 - 生物化学学习笔记](https://share.mubu.com/doc/2-jteI75xgq)
-  * [4 - 生物信息学学习笔记](https://share.mubu.com/doc/eGqzCLtQ0q)
+  * [0 - 生信入门提纲]()
+  * [1 - 生物化学学习笔记]()
+  * [4 - 生物信息学学习笔记]()
 * **【二】文献阅读**
 
 
@@ -198,11 +197,3 @@
 * [🔨 ToolBox 实用工具库](ToolBox/Tools.md)
 * [🔨 写博客必备软件推荐](ToolBox/写博客必备神器.md)
 * [🔨 Latex 语法使用指南](ToolBox/LaTex使用指南)
-
-
-
-# 🎅 赞赏作者
-
-我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 打赏地址：[https://wugenqiang.js.org/sponsor/](https://wugenqiang.js.org/sponsor/)
-
-<div ><img src="https://wugenqiang.gitee.io/notebook/images/pay/wechat-pay.png" width="200" height="200" /></div>
