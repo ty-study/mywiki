@@ -23,7 +23,7 @@
 
 <br>
 
-[GitHub](https://github.com/wugenqiang/NoteBook)
+[GitHub](https://github.com/ty-study/mywiki)
 [开始阅读](/README.md)
 
 
